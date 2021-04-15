@@ -1,2 +1,2 @@
-# Project-73
-i am not able to connect to db
+# Project-71
+title ,author and story are updated to db when search button is pressed 
